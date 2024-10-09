@@ -1,0 +1,460 @@
+Difficoltà: Facile
+Il tris di bruschette è un antipasto colorato e sfizioso, ideale per essere servito in un buffet o per aprire un pasto accontentando i diversi gusti degli ospiti.
+Anche se ogni regione ha la sua variante, gli ingredienti che non possono mancare sono l’olio e il pomodoro. Oggi la tradizione, che continua a resistere sulle tavole degli italiani, lascia spazio anche alle varianti più fantasiose e gustose come quelle che vengono proposte in questa ricetta! La bruschetta con melanzane burrata e datterini accontenterà gli amanti dei sapori mediterranei e nostrani, mentre con la bruschetta con cipolla e salsiccia conquisterete i palati più decisi e golosi. L’abbinamento gamberi saltati con paprika e pesto di zucchine, invece, completerà il tris dando un tocco esotico e prelibato alla vostra bruschetta. Veloci da preparare, in poco tempo realizzerete un antipasto degno di nota sia per il gusto che per la fantasia, non vi resta quindi che provare il tris di bruschette e personalizzarlo scatenando la vostra fantasia!
+
+
+						
+						
+
+														INGREDIENTI
+							
+							                            
+                                
+    								
+    									
+    										
+    										494
+    									
+    									Calorie per porzione
+    								
+    								
+    							
+                                
+    				
+    					    					
+    					    Energia
+    					    Kcal
+    					    494
+    					
+    					    					    					
+    					    Carboidrati
+    					    g
+    					    34
+    					
+    					    					    					
+    					      di cui zuccheri
+    					    g
+    					    7.4
+    					
+    					    					    					
+    					    Proteine
+    					    g
+    					    18.8
+    					
+    					    					    					
+    					    Grassi
+    					    g
+    					    31.4
+    					
+    					    					    					
+    					      di cui saturi
+    					    g
+    					    9.75
+    					
+    					    					    					
+    					    Fibre
+    					    g
+    					    5.1
+    					
+    					    					    					
+    					    Colesterolo
+    					    mg
+    					    74
+    					
+    					    					    					
+    					    Sodio
+    					    mg
+    					    1119
+    					
+    					    				
+    			
+                            
+													
+
+
+						
+														
+							
+														Ingredienti per 6 bruschette
+							
+
+							
+								
+
+																	Pane casereccio
+								
+								
+								
+																	1
+									
+																
+
+								
+
+							
+								
+
+																	Olio extravergine d'oliva
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+														
+							
+						
+														
+							
+														per 2 bruschette melanzane burrata e datterini
+							
+
+							
+								
+
+																	Burrata
+								
+								
+								
+																	200
+									g
+																
+
+								
+
+							
+								
+
+																	Melanzane
+								
+								
+								
+																	130
+									g
+																
+
+								
+
+							
+								
+
+																	Pomodorini datterini
+								
+								
+								
+																	150
+									g
+																
+
+								
+
+							
+								
+
+																	Zucchero di canna
+								
+								
+								
+																	10
+									g
+																
+
+								
+
+							
+								
+
+																	Sale fino
+								
+								
+								
+																	3
+									g
+																
+
+								
+
+							
+								
+
+																	Timo
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+								
+
+																	Menta
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+								
+
+																	Olio extravergine d'oliva
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+														
+							
+						
+														
+							
+														per 2 bruschette con cipolle e salsiccia
+							
+
+							
+								
+
+																	Salsiccia
+								
+								
+								
+																	200
+									g
+																
+
+								
+
+							
+								
+
+																	Cipolle bianche
+								
+								
+								
+																	1
+									
+																
+
+								
+
+							
+								
+
+																	Aceto balsamico
+								
+								
+								
+																	30
+									ml
+																
+
+								
+
+							
+								
+
+																	Acqua
+								
+								
+								
+																	½
+									bicchiere
+																
+
+								
+
+							
+								
+
+																	Olio extravergine d'oliva
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+														
+							
+						
+														
+							
+														per 2 bruschette con gamberi e pesto di zucchine
+							
+
+							
+								
+
+																	Gamberi
+								
+								
+								
+																	120
+									g
+																
+
+								
+
+							
+								
+
+																	Zucchine
+								
+								
+								
+																	2
+									
+																
+
+								
+
+							
+								
+
+																	Mandorle pelate
+								
+								
+								
+																	80
+									g
+																
+
+								
+
+							
+								
+
+																	Paprika
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+								
+
+																	Basilico
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+								
+
+																	Sale fino
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+								
+
+																	Olio extravergine d'oliva
+								
+								
+								
+																	
+									q.b.
+																
+
+								
+
+							
+														
+							
+						
+						
+						
+							
+								
+									
+										
+									
+								
+								.
+							
+						
+				    
+
+															
+
+																		
+																															
+											
+										
+																														
+																		Per preparare le bruschette con melanzane burrata e datterini, iniziate lavando la melanzana e mondandola. Quindi tagliatela a fette spesse 1 cm 1 e poi trasferite le fette su una leccarda rivestita con carta forno, salatele 2 e versate un filo d'olio extravergine di oliva su ognuna 3. A questo punto infornate in forno statico preriscaldato a 200° per 10 minuti e poi impostate il grill e fate cuocere per altri 2 minuti. Se usate il forno ventilato, cuocete a 180° per 5 minuti e poi impostate il grill proseguendo la cottura per 2 minuti.
+									
+
+								
+
+															
+
+																		
+																															
+											
+										
+																														
+																		Quando le fette di melanzana si saranno ammorbidite e risulteranno ben dorate 4, trasferitele in una ciotola e conditele con delle foglie di menta 5. Coprite la ciotola con la pellicola trasparente e lasciate riposare per circa 5 minuti a temperatura ambiente, in modo che si ammorbidiscano ulteriormente con il loro stesso vapore 6.
+									
+
+								
+
+															
+
+																		
+																															
+											
+										
+																														
+																		Ora caramellate i pomodori datterini. Lavate con cura i datterini e tagliateli a metà. Dopodichè prendete una padella antiaderente, versateci un filo d'olio e i pomodorini tagliati 7. Aggiungete lo zucchero di canna 8 e il timo 9 e fate cuocere per 5 minuti a fuoco medio, fino a quando i datterini non saranno leggermente appassiti e avranno perso un po' del loro liquido.
+									
+
+								
+
+															
+
+																		
+																															
+											
+										
+																														
+																		Non vi resta ora che condire le fette di pane abbrustolito. Sistemate le fette di pane su un tagliere e formate uno strato di melanzane 10, poi sistemate un pezzo di burrata 11 e unite i datterini 12. Le vostre bruschette con melanzane burrata e datterini sono pronte per essere gustate!
+									
+
+								
+
+							
+					    

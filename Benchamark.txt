@@ -1,0 +1,535 @@
+
+
+VETTORIALE:
+1) Pollo: 
+Tempo: 0.102
+Risultati della ricerca:
+1° Pollo cotto sulla lattina di birra.txt, Punteggio: 99.64936544923493     		3 
+2° Pollo in gabbia.txt, Punteggio: 99.64936544923493					1
+3° Bocconcini di pollo all'arancia.txt, Punteggio: 76.65335803787302			3
+4° Ali di pollo fritte.txt, Punteggio: 76.65335803787302				2
+5° Pollo ripieno del ringraziamento.txt, Punteggio: 76.65335803787302        		1
+6° Arroz con pollo.txt, Punteggio: 72.82069013597938					3
+7° Pollo arrosto.txt, Punteggio: 68.98802223408572					3
+8° Pollo alla cacciatora.txt, Punteggio: 68.98802223408572 				3
+9° Pollo arrosto.txt, Punteggio: 68.98802223408572					3
+10° Pollo bardato con carciofi e patate dolci.txt, Punteggio: 68.988022234085		2
+
+2)Pollo e limone : 
+Tempo: 0.089
+Risultati della ricerca:
+1° Pollo arrosto al limone e timo.txt, Punteggio: 94.73005802375808			2
+2° Pollo al limone.txt, Punteggio: 91.75538254315873					3
+3° Straccetti di pollo al limone con rucola.txt, Punteggio: 77.5973760163811		3 
+4° Pollo piri piri .txt, Punteggio: 76.96803069737571					0
+5° Pollo arrosto.txt, Punteggio: 74.30802787627906					0
+6° Pollo yassa.txt, Punteggio: 74.30802787627906					0
+7° Petto di pollo al limone.txt, Punteggio: 71.41937795289347				3
+8° Piccata di pollo.txt, Punteggio: 71.1047052933908					3
+9° Pollo alla marocchina.txt, Punteggio: 66.95736473199445				1
+10° Petto di pollo cremoso.txt, Punteggio: 66.95736473199445				2
+
+3) Pollo senza latte
+Tempo: 0.097
+Risultati della ricerca:
+1° Pollo cotto sulla lattina di birra.txt, Punteggio: 102.67769102930629		3
+2° Pollo rustico con patate.txt, Punteggio: 91.60594223101192				0
+3° Pollo bardato con carciofi e patate dolci.txt, Punteggio: 90.18630129458518		0
+4° Ali di pollo e patate saporite.txt, Punteggio: 79.49263991072652			0
+5° Pollo Ripieno al forno.txt, Punteggio: 72.63164642876151				0
+6° Pollo arrosto.txt, Punteggio: 72.01634781415707					0
+7° Pollo alla birra.txt, Punteggio: 67.37933759044112					3
+8° Pollo alle mandorle.txt, Punteggio: 66.57499526861882				1
+9° Pollo al forno con patate e cipolle.txt, Punteggio: 66.38595156140096		0
+10° Cosce di pollo speziate al forno.txt, Punteggio: 65.77065294679652			0
+
+4) 30 minuti
+Tempo: 0.066
+Risultati della ricerca:
+1° Treccia al pesto.txt, Punteggio: 29.779682458723787					0
+2° Pandoro.txt, Punteggio: 24.162143300147026						0
+3° Focaccia (fügassa) alla genovese.txt, Punteggio: 23.80208280053676	                2
+4° Strudel ripieno di ragù di verdure e formaggio.txt, Punteggio: 22.925836357375672    0
+5° Biscotti di Pasqua colorati.txt, Punteggio: 22.56577585776541			0
+6° Cannelloni alle melanzane.txt, Punteggio: 22.20571535815514				0
+7° Crostata con yogurt al caramello salato e cioccolato.txt, Punteggio: 		0
+8° Minestrone di pasta, verdura e pesto.txt, Punteggio: 21.329468914994056	        1
+9° Panettoncini con mandarino candito e rosmarino.txt, Punteggio: 20.60934791577352     2
+10° Bicchierini d'anguria e yogurt.txt, Punteggio: 20.453222471832973			0
+
+5) mare e spiaggia
+Tempo: 0.043
+Risultati della ricerca:
+1° Spaghetti ai ricci di mare.txt, Punteggio: 49.388498600824136			3
+2° Insalata di mare.txt, Punteggio: 28.044880447845294					3
+3° Cozze alla tarantina.txt, Punteggio: 10.969985925462222				2
+4° Cozze fritte.txt, Punteggio: 10.969985925462222					2
+5° Focaccia barese.txt, Punteggio: 10.969985925462222					1
+6° Insalata di riso mango e ananas.txt, Punteggio: 10.969985925462222			2
+7° Scaccia.txt, Punteggio: 10.969985925462222						0
+8° Spanakopitakia (ricetta greca).txt, Punteggio: 10.969985925462222			0
+9° Triglie alla livornese.txt, Punteggio: 10.969985925462222				2
+
+6) light o proteine
+1° Cheesecake leggera.txt, Punteggio: 26.134899091415445				3
+2° Torta di mele light.txt, Punteggio: 26.134899091415445				3
+3° Banana bread light.txt, Punteggio: 20.166789311722635				3
+4° Rosti light.txt, Punteggio: 20.166789311722635					2
+5° Funghi ripieni light.txt, Punteggio: 8.230569752337018				3
+6° Burger di salmone con maionese senza uova e patate saltate.txt, 			2
+7° Calamari ripieni di couscous.txt, Punteggio: 8.230569752337018			3
+8° Carpaccio di melanzane.txt, Punteggio: 8.230569752337018				2
+9° Cheesecake fredda.txt, Punteggio: 8.230569752337018					0
+10° Cheesecake.txt, Punteggio: 8.230569752337018					0
+
+7) ricette buone natale
+Tempo: 0.066
+Risultati della ricerca:
+1° Pasta Babbo Natale.txt, Punteggio: 42.53606042919978					3
+2° Zeppole di Natale.txt, Punteggio: 40.682514258782376					3
+3° Biscottini di Natale alle mandorle.txt, Punteggio: 35.997514603974224		3
+4° Crostata di Natale con Nutella®.txt, Punteggio: 32.98052935162026			2
+5° Tortellini bolognesi.txt, Punteggio: 28.56432477520926				0
+6° Panettone gastronomico farcito.txt, Punteggio: 21.942515639549782			3
+7° Ricetta dei crostini di fegatini.txt, Punteggio: 21.840247182020494			2
+8° Panettone salato veloce.txt, Punteggio: 20.779076557613216				3
+9° Susumelle.txt, Punteggio: 20.779076557613216						2
+10° Cocktail di gamberi.txt, Punteggio: 19.80116924363987				3
+
+8) piccante
+Tempo: 0.069
+Risultati della ricerca:
+1° Polpette ripiene di formaggio con salsa piccante.txt, Punteggio: 28.435434756758358    2
+2° Gamberi in salsa piccante.txt, Punteggio: 28.435434756758358				  2
+3° Linguine con erbe miste, pomodorini e olio piccante.txt, Punteggio: 28.435434756758358 1
+4° Wrap con hummus piccante e verdure.txt, Punteggio: 28.435434756758358		  3
+5° Harissa marocchina di media piccantezza.txt, Punteggio: 24.373229791507164		  2
+6° Pasta al chorizo piccante.txt, Punteggio: 24.373229791507164				  3
+7° Manzo piccante con peperoni e germogli di soia.txt, Punteggio: 24.373229791507164      2
+8° Crema di cavolfiore e carote.txt, Punteggio: 20.31102482625597			  2
+9° Fagioli e salsiccia piccante.txt, Punteggio: 20.31102482625597			  2
+10° Pollo piccante.txt, Punteggio: 20.31102482625597					  2
+
+9) ricette con uova battute
+Tempo: 0.126
+Risultati della ricerca:
+1° Crocchette di pollo e piselli.txt, Punteggio: 17.817815619485934			 3
+2° Ravioli di orata.txt, Punteggio: 17.6606981732602					 3
+3° Lasagne al ragù di seitan.txt, Punteggio: 15.686112518766254				 0
+4° Cardone beneventano.txt, Punteggio: 15.650034556617065   				 2
+5° Polpettone di zucchine.txt, Punteggio: 13.796488386199664				 0
+6° Cannelloni di patate al ragù.txt, Punteggio: 13.639370939973931			 0
+7° Carciofo ripieno.txt, Punteggio: 13.639370939973931					 0
+8° Frittata di pasta.txt, Punteggio: 13.639370939973931					 3
+9° Passatelli in brodo con la salsa di soia.txt, Punteggio: 13.639370939973931		 3
+10° Torta di nocciole.txt, Punteggio: 13.639370939973931				 2
+
+10) purè
+Tempo: 0.06
+Risultati della ricerca:
+1° Purè di patate al forno con mozzarella filante.txt, Punteggio: 49.78907792408046      3
+2° Purè di patate cremoso.txt, Punteggio: 49.78907792408046				 3
+3° Purè goloso.txt, Punteggio: 49.78907792408046					 3
+4° Scaloppine con funghi misti e purè di patate.txt, Punteggio: 49.78907792408046        2
+5° Purè di cavolfiore.txt, Punteggio: 43.5654431835704					 0
+6° Purè di fagioli con speck croccante.txt, Punteggio: 43.5654431835704			 0
+7° Purè di patate e lenticchie.txt, Punteggio: 43.5654431835704				 1
+8° Pollo e purè.txt, Punteggio: 37.341808443060344					 1
+9° Purè di sedano rapa alla panna.txt, Punteggio: 37.341808443060344			 0
+10° Purè di patate.txt, Punteggio: 31.118173702550287					 3
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DOC2VEC
+1) ricetta con pollo
+Tempo: 0.016
+1. Pollo alla bolognese.txt Similarità: 0.7300992012023926			3
+2. Pollo all'abruzzese.txt Similarità: 0.7249916195869446			3
+3. Pollo romagnolo alla cacciatora.txt Similarità: 0.7108545303344727		3
+4. Bocconcini di pollo agli aromi.txt Similarità: 0.6660000681877136		3
+5. Ricetta Stracciatella.txt Similarità: 0.658112645149231			0
+6. Pollo agglassato.txt Similarità: 0.64228355884552				3
+7. Pollo con carote e cipolle.txt Similarità: 0.6414864659309387		3
+8. Costolette di agnello.txt Similarità: 0.630073606967926			0
+9. Pollo al limone.txt Similarità: 0.6259762048721313				2
+10. Ricetta Minestra di riso e pollo al limone.txt Similarità: 			1
+
+2) pollo e limone
+Tempo: 0.017
+1. Bocconcini di pollo agli aromi.txt Similarità: 0.6468712687492371	       1
+2. Ricetta Stracciatella.txt Similarità: 0.6446007490158081		       0
+3. Pollo al limone al forno.txt Similarità: 0.6291419863700867		       3
+4. Pollo al limone.txt Similarità: 0.6066372990608215			       3
+5. Costolette di agnello.txt Similarità: 0.5989826917648315		       0
+6. Pollo arrosto al forno.txt Similarità: 0.5953067541122437		       1
+7. Cappone alla calabrese.txt Similarità: 0.5927914977073669		       1
+8. Arista agli agrumi.txt Similarità: 0.5924705862998962	               0
+9. Salmone al lime e menta.txt Similarità: 0.5917363166809082		       0
+10. Agnello cacio e uova.txt Similarità: 0.5851271152496338		       0
+
+3) pollo senza latte
+Tempo: 0.01
+1. Salsa di zucchine a crudo.txt Similarità: 0.7047719955444336		        0  		
+2. Petti di pollo alla valdostana.txt Similarità: 0.6779235601425171	        3	      
+3. Torta senza latte.txt Similarità: 0.6518581509590149	      		        0
+4. Ciambellone con limoncello.txt Similarità: 0.6475468277931213	        0
+5. Biscotti da inzuppo al latte.txt Similarità: 0.642121434211731	        0
+6. Butter cake.txt Similarità: 0.6252869367599487	      		        0
+7. Pancake senza latte.txt Similarità: 0.6215415000915527	                0
+8. Bastoncini con gocce di cioccolato.txt Similarità: 0.6186242699623108        0
+9. Base per torte di frutta.txt Similarità: 0.6154749989509583	                0
+10. Muffins al Bayles.txt Similarità: 0.6130347847938538	                0  
+
+4) 30 minuti
+Tempo: 0.018
+1. Plum cake al latte condensato.txt Similarità: 0.6289482712745667		2
+2. Funghi all'abruzzese.txt Similarità: 0.615023136138916			3
+3. Ciambella al profumo di arancia.txt Similarità: 0.611430287361145		1
+4. Pasta all'uovo con più tuorli.txt Similarità: 0.5956631898880005		3
+5. Cipolla fritta.txt Similarità: 0.6030219197273254				3
+6. Torta Panarello.txt Similarità: 0.5854179859161377				3
+7. Bocconcini cremosi con piselli e patate.txt Similarità: 0.5828012824058533	0
+8. Muffin morbidi al cioccolato.txt Similarità: 0.5809597969055176		3
+9. Insalata di finocchi.txt Similarità: 0.5786424279212952			3
+10. Mattonella di cioccolato.txt Similarità: 0.5782982707023621			2
+
+5) ricette fresche per mare e spiaggia
+Tempo: 0.013
+1. Biscotti al rosmarino.txt Similarità: 0.6417053937911987			0
+2. Pesce spada apparecchiato.txt Similarità: 0.6253345012664795			3
+3. Biscotti light.txt Similarità: 0.6237854957580566				0
+4. Insalata di finocchi.txt Similarità: 0.62308669090271			0
+5. Stocco e fagioli.txt Similarità: 0.6220093965530396				1
+6. Totani alla marchigiana.txt Similarità: 0.6192179322242737			2
+7. Torta soffice alle mandorle.txt Similarità: 0.6088997721672058		0
+8. Pasta all'uovo con più tuorli.txt Similarità: 0.6079772710800171		0
+9. Pomodori fritti alla ligure.txt Similarità: 0.6057755351066589		0
+10. Plum cake al latte condensato.txt Similarità: 0.6015931963920593		0
+
+
+6) light o proteine
+Tempo: 0.01
+1. Ricetta Zuppa di fave alla menta.txt Similarità: 0.6280261278152466   	2    
+2. Cotoletta alla palermitana.txt Similarità: 0.5998204350471497		2
+3. Insalata estiva con maionese fatta in casa.txt Similarità: 0.58254325389862  0
+4. Cotolette di zucchine fritte.txt Similarità: 0.5800347924232483		1
+5. Burger di salmone con maionese senza uova e patate saltate.txt 		2
+6. Carote alla senape.txt Similarità: 0.5776208639144897			3
+7. Maionese senza uova.txt Similarità: 0.5756604075431824			2
+8. Stick di zucchine al forno.txt Similarità: 0.5748119354248047		3
+9. Polpette con zucchini alla greca.txt Similarità: 0.5728350281715393		0
+10. Zucchine in padella.txt Similarità: 0.5676804780960083			3
+
+7) ricette buone natale
+Tempo: 0.004
+1. Migliaccio ravennate.txt Similarità: 0.5929566621780396			0
+2. Biscotti al burro.txt Similarità: 0.5867130160331726				1
+3. Ghirlanda salata di Natale.txt Similarità: 0.5592858195304871		3
+4. Zuppa valpellinese.txt Similarità: 0.5592795610427856			1
+5. Funghi all'abruzzese.txt Similarità: 0.5541859269142151			0
+6. Festone di pan di zenzero.txt Similarità: 0.549274742603302			3
+7. Panettone salato veloce.txt Similarità: 0.541985034942627			3
+8. Coniglio alla reggiana.txt Similarità: 0.5413723587989807			0
+9. Coniglio alle olive.txt Similarità: 0.5403197407722473			0
+10. Torta nascita bambina.txt Similarità: 0.536491334438324			0
+
+8) piccante
+1. Bocconcini di pollo con peperoni agrodolce.txt Similarità: 0.6466110944747	1
+2. Filetti di pollo piccante ai peperoni.txt Similarità: 0.6458762288093567  	3
+3. Pollo, peperoni e cipolle.txt Similarità: 0.6186872124671936			1
+4. Condimento per pollo.txt Similarità: 0.6063047647476196			0
+5. Pennette alle Verdure Piccanti.txt Similarità: 0.6060083508491516		2
+6. Pasta alla pecoraia.txt Similarità: 0.5969985127449036			0
+7. Maccaruni ara turanisi.txt Similarità: 0.5958943367004395			2
+8. Pasta peperoni e scamorza affumicata.txt Similarità: 0.5954189896583557 	2  
+9. Rape saltate.txt Similarità: 0.5921470522880554				1
+10. Pollo con peperone in agrodolce.txt Similarità: 0.5836583375930786 		0   
+   
+9) ricette con uova battute
+Tempo: 0.004
+1. Scaloppine di vitella all'arancia.txt Similarità: 0.6273394227027893		0
+2. Lasagnetta di seppie su crema di piselli e patate.txt Similarità: 		1
+3. Costolette d'abbacchio panate e fritte.txt Similarità: 0.5543177723884583	3
+4. Lasagne con polpettine.txt Similarità: 0.5462843775749207			0
+5. Tagliolini con cappesante e zucchini.txt Similarità: 0.5450770258903503	1
+6. Polpettone.txt Similarità: 0.5445370674133301				1
+7. Arrosto di maiale farcito.txt Similarità: 0.5426065921783447			0
+8. Ragù abruzzese.txt Similarità: 0.5406970381736755				0
+9. Scaloppine al limone.txt Similarità: 0.5374232530593872			0
+10. Berlingozzo.txt Similarità: 0.5374211668968201				2
+
+10) purè
+1. Guancia cotta a bassa temperatura con pureé di patate e prezzemolo.txt 	2
+2. Purè di patate.txt Similarità: 0.6598291993141174				3
+3. Stufato di manzo con patate e limone.txt Similarità: 0.6539114713668823	1	
+4. Capocollo alla tedesca.txt Similarità: 0.6321778297424316			3
+5. Gnocchetti in crema di lenticchie.txt Similarità: 0.6133151650428772		0
+6. Spezzatino in umido con patate.txt Similarità: 0.6029745936393738		1
+7. Stinco arrosto con patate.txt Similarità: 0.5993219017982483			1
+8. Scamerita alla tedesca.txt Similarità: 0.5985952019691467			3
+9. Purè di zucca.txt Similarità: 0.596345841884613				0
+10. Patate duchessa.txt Similarità: 0.5922169089317322				2
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+BOOLEANO:
+1) Pollo:
+Tempo: 0.066
+Risultati della ricerca:
+1° Acquacotta.txt, Punteggio: 1.0							0
+2° Adobo di maiale.txt, Punteggio: 1.0							1
+3° Adobo di pollo.txt, Punteggio: 1.0							3
+4° Agnello alla romana.txt, Punteggio: 1.0						1
+5° Agnello con melanzane striate.txt, Punteggio: 1.0					1
+6° Agnello in fricassea con i carciofi.txt, Punteggio: 1.0				1
+7° Agnoli mantovani.txt, Punteggio: 1.0							1
+8° Agrodolce di pollo alle mandorle tostate.txt, Punteggio: 1.0				3
+9° Alette di pollo alla birra.txt, Punteggio: 1.0					3	
+10° Alette di pollo alla messicana.txt, Punteggio: 1.0 					3
+
+2)Pollo AND limone : 
+Tempo: 0.045
+Risultati della ricerca:
+1° Agnello in fricassea con i carciofi.txt, Punteggio: 2.0				1
+2° Agrodolce di pollo alle mandorle tostate.txt, Punteggio: 2.0				1
+3° Alette di pollo alla messicana.txt, Punteggio: 2.0					2
+4° Alette di pollo arrostite.txt, Punteggio: 2.0					1
+5° Alette marinate allo spiedo.txt, Punteggio: 2.0					1
+6° Ali di pollo fritte.txt, Punteggio: 2.0						2		
+7° Ali di pollo in Salsa ketchup al forno!!!.txt, Punteggio: 2.0			1			
+8° Anatra agrodolce ai lychees.txt, Punteggio: 2.0					1
+9° Barbecue Chicken e Potato Salad (Pollo americano con insalata di patate).txt, 	2
+10° Bastoncini di pollo al limone fritti.txt, Punteggio: 2.0				3
+
+3) Pollo NOT latte
+Tempo: 0.093
+Risultati della ricerca:
+1° Acquacotta.txt, Punteggio: 2.0							0
+2° Adobo di maiale.txt, Punteggio: 2.0							2
+3° Adobo di pollo.txt, Punteggio: 2.0							3
+4° Agnello alla romana.txt, Punteggio: 2.0						2
+5° Agnello con melanzane striate.txt, Punteggio: 2.0					2
+6° Agnello in fricassea con i carciofi.txt, Punteggio: 2.0				2
+7° Agnoli mantovani.txt, Punteggio: 2.0							2
+8° Agrodolce di pollo alle mandorle tostate.txt, Punteggio: 2.0				3
+9° Alette di pollo alla birra.txt, Punteggio: 2.0					3
+10° Alette di pollo alla messicana.txt, Punteggio: 2.0					3
+
+4) 30 
+Tempo: 0.158
+Risultati della ricerca:								
+1° 'Mpanata di spada pomodorini e olive.txt, Punteggio: 1.0				0
+2° 100 salatini in 30 minuti.txt, Punteggio: 1.0					3
+3° A vastedda.txt, Punteggio: 1.0							1
+4° Aachener Printen.txt, Punteggio: 1.0							2
+5° Abbracci.txt, Punteggio: 1.0								2
+6° Ads shorba (zuppa araba di lenticchie rosse e succo di limone).txt, Punteggio: 1.0	1
+7° Affogato all'amarena.txt, Punteggio: 1.0						3
+8° After eight tiramisù.txt, Punteggio: 1.0						0
+9° Agliata di murena.txt, Punteggio: 1.0						3
+10° Agnello aggrassato.txt, Punteggio: 1.0						0
+
+5) spiaggia AND mare
+Tempo: 0.034
+Risultati della ricerca:
+1° Cozze alla tarantina.txt, Punteggio: 2.0						3
+2° Cozze fritte.txt, Punteggio: 2.0							2
+3° Focaccia barese.txt, Punteggio: 2.0							3
+4° Insalata di mare.txt, Punteggio: 2.0							3
+5° Insalata di riso mango e ananas.txt, Punteggio: 2.0					3
+6° Scaccia.txt, Punteggio: 2.0								3
+7° Spaghetti ai ricci di mare.txt, Punteggio: 2.0					2
+8° Spanakopitakia (ricetta greca).txt, Punteggio: 2.0					2
+9° Triglie alla livornese.txt, Punteggio: 2.0						2
+
+6) light OR proteine
+Tempo: 0.038
+Risultati della ricerca:
+1° Cheesecake leggera.txt, Punteggio: 3.0						2
+2° Torta di mele light.txt, Punteggio: 3.0					3
+3° Calamari al profumo di limone light.txt, Punteggio: 2.0				3
+4° Funghi ripieni light.txt, Punteggio: 2.0						2
+5° Insalata di pollo grigliato.txt, Punteggio: 2.0					3
+6° Insalata greca.txt, Punteggio: 2.0							3
+7° Muffin ai mirtilli light.txt, Punteggio: 2.0						3
+8° Panino al pollo light.txt, Punteggio: 2.0						2
+9° Parmigiana light.txt, Punteggio: 2.0							2
+10° Plumcake leggero alle pere.txt, Punteggio: 2.0					1
+
+7) buono AND natale
+Tempo: 0.058
+Risultati della ricerca:
+1° Biscotti di Natale facili.txt, Punteggio: 3.0					3
+2° Biscotti linzer.txt, Punteggio: 3.0							3
+3° Cappone lesso.txt, Punteggio: 3.0							2
+4° Cocktail di gamberi.txt, Punteggio: 3.0						3
+5° Biscottini di Natale alle mandorle.txt, Punteggio: 3.0				3
+6° Crostata di Natale con Nutella®.txt, Punteggio: 3.0					3
+7° Ghirlanda di panini dolci.txt, Punteggio: 3.0					3
+8° Pasta Babbo Natale.txt, Punteggio: 3.0						2
+9° Susumelle.txt, Punteggio: 3.0							1
+10° Tronchetto di Natale (Buche de Noel).txt, Punteggio: 3.0				3
+
+8) piccante
+Tempo: 0.072
+Risultati della ricerca:
+1° Acciughe al vino.txt, Punteggio: 1.0							1
+2° Acquacotta.txt, Punteggio: 1.0							3
+3° Acquasale.txt, Punteggio: 1.0							1
+4° Adobo di maiale.txt, Punteggio: 1.0							1
+5° Adobo di pollo.txt, Punteggio: 1.0							1
+6° Agnello con melanzane striate.txt, Punteggio: 1.0					2
+7° Agnello con peperoni e cipolline.txt, Punteggio: 1.0					2
+8° Agnello olive e finocchietti.txt, Punteggio: 1.0					2
+9° Alette di pollo alla messicana.txt, Punteggio: 1.0					3
+10° Alette di pollo arrostite.txt, Punteggio: 1.0					3
+
+9) uovo AND battuto
+Tempo: 0.048
+Risultati della ricerca:
+1° Arancini al pomodoro e mozzarella.txt, Punteggio: 2.0				2
+2° Cannelloni di patate al ragù.txt, Punteggio: 2.0					0
+3° Carciofo ripieno.txt, Punteggio: 2.0							0
+4° Cotolette cuor di cavallo fritte.txt, Punteggio: 2.0					1
+5° Crocchette e carciofi.txt, Punteggio: 2.0						1
+6° Flan di baccalà.txt, Punteggio: 2.0							1
+7° Frittata di pasta.txt, Punteggio: 2.0						3
+8° Gnocchetti alla zucca al ragù bianco di capriolo.txt, Punteggio: 2.0			0
+9° I fioroni di Morcone.txt, Punteggio: 2.0						1
+10° Lasagne al ragù bianco con peperoni.txt, Punteggio: 2.0				0
+
+10) purè
+Tempo: 0.023
+Risultati della ricerca:
+1° Anatra alla tirolese.txt, Punteggio: 1.0						1
+2° Arrosto aromatico di filetto di maiale.txt, Punteggio: 1.0				0
+3° Arrosto ripieno di salame e prosciutto.txt, Punteggio: 1.0				0
+4° Barchette di patate riepiene.txt, Punteggio: 1.0					2
+5° Biscotti alla salsa di mele.txt, Punteggio: 1.0					1
+6° Brasato di guancia di manzo.txt, Punteggio: 1.0					0
+7° Buglione d'agnello.txt, Punteggio: 1.0						0
+8° Capocollo alla tedesca.txt, Punteggio: 1.0						2
+9° Cappellacci zucca e patate.txt, Punteggio: 1.0					3
+10° Carrè d'agnello pillottato al forno.txt, Punteggio: 1.0				0
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SENTIMENT ANALYSIS														
+1) migliore ricetta con pollo								
+1° Involtini di pollo impanati.txt sentimento :  0.32					3
+2° Pizza di carne.txt sentimento :  0.29166666666666663					0
+3° Petto di pollo all’arancia.txt sentimento :  0.25					3
+4° Galantina di faraona.txt sentimento :  0.21904761904761905				3
+5° Pollo alla cacciatora in bianco.txt sentimento :  0.12083333333333333		0
+6° Cosce di pollo al jerk giamaicano.txt sentimento :  0.11397243107769425		2
+7° Acquacotta.txt sentimento :  0.11249999999999999					0
+8° Raclette.txt sentimento :  0.10625							0
+9° Pollo cotto sulla lattina di birra.txt sentimento :  0.076984126984127		2
+10° Pollo con i peperoni.txt sentimento :  0.0						1	
+
+2) pollo e limone gustoso
+ 1° One-pot di riso.txt sentimento :  0.7						1
+ 2° Bocconcini di pollo al cocco.txt sentimento :  0.3236111111111111			3
+ 3° Pollo al mattone.txt sentimento :  0.25999999999999995				1
+ 4° Kebab fatto in casa.txt sentimento :  0.2571428571428571				1
+ 5° Insalata con uova strapazzate.txt sentimento :  0.225				1
+ 6° Scaloppine di pollo saporite.txt sentimento :  0.21142857142857144			3
+ 7° Cosce di pollo al forno con mele.txt sentimento :  0.20595238095238094		2
+ 8° Galletto al sale.txt sentimento :  0.19523809523809524				2
+ 9° Pollo con salsa di capperi.txt sentimento :  0.18124999999999997			1
+ 10° Tacchino al forno.txt sentimento :  0.14833333333333334				0
+
+3) ricette con pollo senza latte
+ 1° Masala di ceci.txt sentimento :  0.45						1
+ 2° Bocconcini di pollo al cocco.txt sentimento :  0.3236111111111111			1
+ 3° Pate' di fegato.txt sentimento :  0.19090909090909092				2
+ 4° Crocchette di pollo e prosciutto.txt sentimento :  0.0975				2
+ 5° Pollo fritto con maionesi veloci.txt sentimento :  0.09583333333333333		1
+ 6° Pollo al curry con albicocche e mele verdi.txt sentimento :  0.08916666666666664	1
+ 7° Curry di rana pescatrice.txt sentimento :  0.03425925925925926			0
+ 8° Pollo con latte di cocco malgascio.txt sentimento :  -0.02295918367346939		1
+ 9° Pollo al curry classico.txt sentimento :  -0.06458333333333335			2
+ 10° Fish pie.txt sentimento :  -0.14206349206349206					0
+
+4) piatti da fare in 30 minuti 
+ 1° Insalata di farro invernale.txt sentimento :  0.9					0
+ 2° Losanghe dolci alla zucca.txt sentimento :  0.9					1
+ 3° Carotine al miele.txt sentimento :  0.9						1
+ 4° One-pot di riso.txt sentimento :  0.7						3
+ 5° Parrozzo.txt sentimento :  0.7							2
+ 6° Rana pescatrice in salsa allo zafferano e limone.txt sentimento :  0.6375		1
+ 7° Torta quattro quarti al cacao.txt sentimento :  0.6333333333333333			3
+ 8° Riso con pollo alla tunisina.txt sentimento :  0.6					3
+ 9° Torta al tè verde e cioccolato.txt sentimento :  0.55				0
+ 10° Crespelle integrali con verdure miste e feta.txt sentimento :  0.5333333333333333	1
+
+5) ricette perfette per mare e spiaggia
+ 1° Palamita al cartoccio con pomodorini.txt sentimento :  0.5				2
+ 2° Tortini di canocchie.txt sentimento :  0.39999999999999997				3
+ 3° Branzino al forno.txt sentimento :  0.3416666666666667				1
+ 4° Risotto al limone.txt sentimento :  0.3392857142857143				3
+ 5° Insalata di quinoa vegetariana.txt sentimento :  0.23095238095238096		3
+ 6° Brasato d'orata.txt sentimento :  0.2125						2
+ 7° Cozze fritte.txt sentimento :  0.20925925925925926					2
+ 8° Frittata di mazzancolle.txt sentimento :  0.2					3
+ 9° Tortino di alici.txt sentimento :  0.19583333333333333				2
+ 10° Triglie alla livornese.txt sentimento :  0.18					2
+
+6) ricette light
+ 1° Torta allo yogurt senza uova.txt sentimento :  0.65					2			
+ 2° Panino al pollo light.txt sentimento :  0.45					2
+ 3° Torta all'acqua al cacao.txt sentimento :  0.45					3
+ 4° Parmigiana di melanzane grigliate.txt sentimento :  0.37777777777777777		1	
+ 5° Calamari al profumo di limone light.txt sentimento :  0.325				3
+ 6° Scarpaccia viareggina.txt sentimento :  0.32222222222222224				2	
+ 7° Banana bread light.txt sentimento :  0.31666666666666665				2
+ 8° Muffin all'acqua.txt sentimento :  0.31666666666666665				3
+ 9° Krapfen al forno.txt sentimento :  0.3059523809523809				3
+ 10° Carpaccio di melanzane.txt sentimento :  0.3					2
+
+7) ricette buone per natale
+ 1° Bicchierini ai marron glacé e meringhe.txt sentimento :  0.35714285714285715	1
+ 2° Biscottini di Natale alle mandorle.txt sentimento :  0.325				3
+ 3° Cotechino con lenticchie.txt sentimento :  0.21750000000000003			1
+ 4° Ghirlanda di panini dolci.txt sentimento :  0.21666666666666665			3
+ 5° Ricetta dei crostini di fegatini.txt sentimento :  0.21000000000000002		1
+ 6° Liquore al cioccolato.txt sentimento :  0.20595238095238094				0
+ 7° Panettone gastronomico farcito.txt sentimento :  0.19249999999999998		3
+ 8° Stelline di patate.txt sentimento :  0.18160173160173157				2
+ 9° Crostata di Natale con Nutella®.txt sentimento :  0.16666666666666666		3	
+ 10° Susumelle.txt sentimento :  0.14464285714285713					2
+
+8) Qualcosa di piccante
+ 1° Schiacciate con nduja e olive nere infornate.txt sentimento :  0.9			3
+ 2° Pesto di pomodori secchi.txt sentimento :  0.9					1
+ 3° Muffin salati senza uova.txt sentimento :  0.5					1
+ 4° Involtini primavera ripieni di spaghettini di soia.txt sentimento :  0.5		0
+ 5° Flan di piselli.txt sentimento :  0.5						0
+ 6° Salmone croccante con insalata di noodles.txt sentimento :  0.5			3
+ 7° Zuppa di funghi.txt sentimento :  0.4666666666666666				2
+ 8° Crostone burro e sardine.txt sentimento :  0.45					1
+ 9° Brioche rustica con prosciutto e formaggio.txt sentimento :  0.40238095238095234	0
+ 10° Gazpacho con tartare di ricciola.txt sentimento :  0.39999999999999997		2
+
+9) ricette con uova sbattute
+ 1° Involtini primavera ripieni di spaghettini di soia.txt sentimento :  0.5		1
+ 2° Churros golosi.txt sentimento :  0.305						1
+ 3° Barchette di pane ripiene.txt sentimento :  0.2916666666666667			2
+ 4° Lemon rolls.txt sentimento :  0.2916666666666667					0
+ 5° Biscotti al cocco ricoperti di cioccolato.txt sentimento :  0.29166666666666663	0
+ 6° Funghi champignon impanati e fritti.txt sentimento :  0.26999999999999996		3
+ 7° Gnocchi di zucca.txt sentimento :  0.26277056277056277				1
+ 8° Polpettine di carciofi con cuore filante.txt sentimento :  0.23500000000000001	1
+ 9° Cantucci al pistacchio e cioccolato bianco.txt sentimento :  0.21562499999999998	3
+ 10° Panettoncini con gocce di cioccolato.txt sentimento :  0.21428571428571427		1
+10) un buon purè
+ 1° Purè di patate al forno con mozzarella filante.txt sentimento :  0.175		3
+ 2° Cinghiale alle olive.txt sentimento :  0.13666666666666666				0
+ 3° Purè di patate.txt sentimento :  0.11632653061224489				3
+ 4° Gnocchi alla romana.txt sentimento :  0.1						0
+ 5° Costolette di maiale alla madrilena.txt sentimento :  0.07666666666666669		1
+ 6° Arrosto ripieno di salame e prosciutto.txt sentimento :  0.06428571428571428	0
+ 7° Pollo alla cacciatora.txt sentimento :  0.0						0
+ 8° Polenta di patate.txt sentimento :  -0.012500000000000004				3
+ 9° Involtini con sorpresa.txt sentimento :  -0.025					0
+ 10° Fave e cicorie selvatiche.txt sentimento :  -0.05714285714285715			3
+
+

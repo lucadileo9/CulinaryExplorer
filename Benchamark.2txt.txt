@@ -1,0 +1,60 @@
+Query: 
+1)	UIN: Cercare tutte le ricette nel dataset basate sul pollo
+Particolarità: Ricerca generica, basata su un singolo alimento
+Query Language: pollo
+Query Language Boolean: pollo
+Query Language Sentiment : migliore ricetta con pollo
+
+2)	UIN: Cercare tutte le ricette che contengano sia il pollo che il limone
+Particolarità: Ricerca leggermente più specifica, basata su più alimenti
+Query Language:  pollo e limone
+Query Language Boolean: pollo AND limone
+Query Language Sentiment : pollo e limone gustoso
+
+3)	UIN: Cercare tutte le ricette che contengano il pollo, ma che non contengano latte
+Particolarità: Ricercare una ricetta che contenga un determinato alimento allo stesso tempo NON contenenendone un altro
+Query Language: pollo senza latte
+Query Language Boolean: pollo AND NOT latte
+Query Language Sentiment :  ricette con pollo senza latte
+
+4)	UIN: Cercare ricette da eseguire in 30 minuti
+Particolarità: Fare ricerche relative a intervalli di tempo
+Query Language: 30 minuti
+Query Language Boolean: 30
+Query Language Sentiment : piatti da fare in 30 minuti
+
+5)	UIN: Cercare ricette che facciano pensare al mare, all’estate e che usino prodotti marittimi
+Particolarità: Vedere come si comportano i modelli quando non vengono specificati gli ingredienti, ma solo il “macrogruppo a cui appartengono”
+Query Language: mare e spiaggia
+Query Language Boolean:  spiaggia AND mare
+Query Language Sentiment : ricette perfette per mare e spiaggia
+
+6)	UIN: Ricette light e proteiche adatte per perdere peso
+Particolarità: Stessa cosa di prima, ma astraendo totalmente dagli ingredienti
+Query Language: light o proteiche
+Query Language Boolean: light OR proteiche
+Query Language Sentiment : ricette light
+
+7)	UIN: Ricette adatte e buone per un pranzo di natale
+Particolarità: Analizzare come vada la sentiment analysis per sentimenti di questo tipo
+Query Language: ricette buone natale
+Query Language Boolean: buono AND natale
+Query Language Sentiment : ricette buone per natale
+
+8)	UIN: Cercare ricette piccanti, alla diavola
+Particolarità: Evidenziare come la sentiment analysis si comporti male quando vengono usate parole “cattive” 
+Query Language: piccante
+Query Language Boolean: piccante
+Query Language Sentiment : Qualcosa di piccante
+
+9)	UIN: Cercare ricette che utilizzino uova battute
+Particolarità: Il termine battuto può essere utilizzato sia per le uova che per la carne. L'obiettivo è vedere se il modello doc2vec si lascian ingannare dal diverso contesto che tale termine può avere.
+Query Language: ricette con uova battute
+Query Language Boolean:  uovo AND battuto
+Query Language Sentiment : ricette con uova sbattute
+
+10)	UIN: Cercare ricette con purè di patate
+Particolarità: il termine purè tipicamente si riferisce alle patate, ma può essere usato anche per altri elementi. L'obiettivo è vedere se il modello doc2vec si lascian ingannare dal diverso contesto che tale termine può avere, senza però dare suggerimenti su quale vogliamo.
+Query Language: purè
+Query Language Boolean: purè
+Query Language Sentiment : un buon purè
