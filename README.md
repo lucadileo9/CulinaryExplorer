@@ -36,7 +36,7 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/recipe-search-engine.git
+   git clone https://github.com/lucadileo9/CulinaryExplorer.git
    cd recipe-search-engine
    ```
 
@@ -45,17 +45,11 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
    python3 -m venv env
    source env/bin/activate  # For Windows: env\Scripts\activate
    ```
-
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Run the script:
    ```bash
-   python search_engine.py
+   python culinaryexp.py
    ```
 
 2. Choose the indexing model for the search:
