@@ -57,17 +57,17 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
    ```
 ## Usage
   
-3. Run the script:
+1. Run the script:
    ```bash
    python culinaryexp.py
    ```
 
-4. Choose the indexing model for the search:
+2. Choose the indexing model for the search:
    - Type `b` for **Boolean**.
    - Type `v` for **Vector**.
    - Type `d` for **Doc2Vec**.
 
-5. Select the next action:
+3. Select the next action:
    - Create or update the index.
    - Perform a search query.
    
