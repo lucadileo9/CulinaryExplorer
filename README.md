@@ -47,16 +47,16 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
    python3 -m venv env
    source env/bin/activate  # For Windows: env\Scripts\activate
    ```
-## Usage
-1. Install the requirments:
+3. Install the requirments:
     ```bash
    pip install -r requirements.txt
    ```
-2. Download the Italian language model for spaCy:                                                                                                                          
+4. Download the Italian language model for spaCy:                                                                                                                          
    ```bash
    python -m spacy download it_core_news_sm
    ```
-    
+## Usage
+  
 3. Run the script:
    ```bash
    python culinaryexp.py
@@ -72,6 +72,7 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
    - Perform a search query.
    
 Creating the index takes a long time, and is typically a process that is only done when the dataset changes. The best thing to do is to do some research
+
 N.B.: The recipes are in Italian
 
 ## Credits
