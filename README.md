@@ -52,6 +52,10 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
     ```bash
    pip install -r requirements.txt
    ```
+2. Download the Italian language model for spaCy:                                                                                                                          
+   ```bash
+   python -m spacy download it_core_news_sm
+   ```
     
 3. Run the script:
    ```bash
@@ -66,7 +70,8 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
 5. Select the next action:
    - Create or update the index.
    - Perform a search query.
-   Creating the index takes a long time, and is typically a process that is only done when the dataset changes. The best thing to do is to do some research
+   
+Creating the index takes a long time, and is typically a process that is only done when the dataset changes. The best thing to do is to do some research
 N.B.: The recipes are in Italian
 
 ## Credits
