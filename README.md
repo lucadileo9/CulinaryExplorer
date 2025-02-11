@@ -8,6 +8,8 @@ The recipes were collected via web scraping from the following sources:
 3. [Ricette Facili e Veloci](http://www.ricettefacilieveloci.it/)
 4. [Ricette Regionali](http://www.ricetteregionali.net/)
 
+N.B.: The recipes are in Italian
+
 ## Features
 
 - **Indexing Models**:
@@ -37,7 +39,7 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
 1. Clone the repository:
    ```bash
    git clone https://github.com/lucadileo9/CulinaryExplorer.git
-   cd recipe-search-engine
+   cd CulinaryExplorer
    ```
 
 2. Set up a virtual environment and activate it:
@@ -46,20 +48,26 @@ Additionally, a **PowerPoint presentation** is included that compares the perfor
    source env/bin/activate  # For Windows: env\Scripts\activate
    ```
 ## Usage
-
-1. Run the script:
+1. Install the requirments:
+    ```bash
+   pip install -r requirements.txt
+   ```
+    
+3. Run the script:
    ```bash
    python culinaryexp.py
    ```
 
-2. Choose the indexing model for the search:
+4. Choose the indexing model for the search:
    - Type `b` for **Boolean**.
    - Type `v` for **Vector**.
    - Type `d` for **Doc2Vec**.
 
-3. Select the next action:
+5. Select the next action:
    - Create or update the index.
    - Perform a search query.
+   Creating the index takes a long time, and is typically a process that is only done when the dataset changes. The best thing to do is to do some research
+N.B.: The recipes are in Italian
 
 ## Credits
 
